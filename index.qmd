@@ -1,0 +1,35 @@
+---
+title: ""
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+![](assets/profile-photo.jpg){width="15cm"}
+
+Education:
+
+-   Clinical Pathology Residency, Harvard Medical School, Mass General
+    Brigham
+
+-   MD/PhD, Baylor College of Medicine
+
+-   MBA, Rice Jones School of Business
+
+-   B.S. Biophysics, Duke University
+
+I am a physician-scientist, company builder, investor, and writer. My
+PhD is in Bioinformatics & AI/ML. As a clinical pathologist in training,
+I have a particular interest in immunology, molecular genetics,
+diagnostics, and therapeutics. As an investor and company builder, I
+focus on frontier science and its applications, especially at the
+intersection of biology, healthcare, and AI. I enjoy writing, as well as
+amplifying interesting ideas from those around me
+[here](https://open.substack.com/pub/rowlandpettit/p/coming-soon?r=1r79d0&utm_campaign=post&utm_medium=web).
+
+Do we share interests? Let's connect! Feel free to schedule a 15-minute
+introductory slot here:
+
+<iframe src="https://calendly.com/rwpettit/rowland-15-min" width="100%" height="600" frameborder="0">
+
+</iframe>

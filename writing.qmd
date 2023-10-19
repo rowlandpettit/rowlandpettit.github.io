@@ -1,0 +1,21 @@
+---
+title: "Writing"
+---
+
+```{html}
+<a class="twitter-timeline" data-width="500" data-height="800" data-theme="light" href="https://twitter.com/RowlandPettit?ref_src=twsrc%5Etfw">Tweets by RowlandPettit</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  
+
+<div id="substack-feed-embed"></div>
+
+<script>
+  window.SubstackFeedWidget = {
+    substackUrl: "rowlandpettit.substack.com",
+    posts: 5
+  };
+</script>
+<script src="https://substackapi.com/embeds/feed.js" async></script>
+
+  
+<iframe src="https://rowlandpettit.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no">
+</iframe>
