@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Rowland Pettit MD, PhD, MBA"
+  favicon: assets/profile-photo.jpg
   navbar:
     left:
       # - href: index.qmd
