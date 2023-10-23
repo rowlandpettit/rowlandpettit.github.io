@@ -4,15 +4,13 @@ title: "Photography"
 
 I am an amateur photographer, here are a few shots I love!
 
-::: {layout-ncol=2}
+::: {layout-ncol="3"}
+![](IMG_8703.jpeg){width="2000"}
 
-![](IMG_8703.jpeg)
+![](IMG_8708.jpeg){width="2000"}
 
-![](IMG_8708.jpeg)
+![](IMG_8757.jpeg){width="2000"}
 
-![](IMG_8757.jpeg)
-![](IMG_8268.jpeg)
-
-
+![](IMG_8268.jpeg){width="2000"}
 
 :::
