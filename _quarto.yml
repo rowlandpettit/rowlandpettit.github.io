@@ -11,8 +11,6 @@ website:
       # - about.qmd
       - writing.qmd
       - cv.qmd
-      - text: "Photography"
-        href: photography/index.qmd
 
 
 
