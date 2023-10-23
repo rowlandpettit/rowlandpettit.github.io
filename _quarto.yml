@@ -9,8 +9,8 @@ website:
       # - href: index.qmd
       #   text: _
       # - about.qmd
-      - writing.qmd
-      - cv.qmd
+      - href: writing.qmd
+      - href: cv.qmd
       - text: "Photography"
         href: photography/index.qmd
       
