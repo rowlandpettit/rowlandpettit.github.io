@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Rowland Pettit MD, PhD, MBA"
+  favicon: assets/profile-photo.jpg
+  navbar:
+    left:
+      # - href: index.qmd
+      #   text: _
+      # - about.qmd
+      - href: writing.qmd
+      - href: cv.qmd
+      - text: "Photography"
+        href: photography/index.qmd
+      
+
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
