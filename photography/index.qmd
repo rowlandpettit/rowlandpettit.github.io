@@ -5,23 +5,25 @@ title: "Photography"
 I am an amateur photographer, here are a few of my favorite recent shots.
 
 ::: {layout-ncol="3"}
-![](IMG_9300.jpeg){width="2000"}
-
-![](IMG_9287.jpeg){width="2000"}
+![](IMG_9071.jpeg){width="2000"}
 
 ![](IMG_9281.jpeg){width="2000"}
 
 ![](IMG_9202.jpeg){width="2000"}
 
-![](IMG_9063%202.jpeg){width="2000"}
+![](PXL_145824761.jpg){width="2000"}
 
 ![](IMG_6475.jpeg){width="2000"}
+
+![](IMG_9397.jpeg){width="2000"}
 
 ![](IMG_6653.jpeg){width="2000"}
 
 ![](IMG_6728.jpeg){width="2000"}
 
 ![](IMG_7007.jpeg){width="2000"}
+
+![](IMG_9063%202.jpeg){width="2000"}
 
 ![](IMG_7286.jpeg){width="2000"}
 
@@ -37,7 +39,7 @@ I am an amateur photographer, here are a few of my favorite recent shots.
 
 ![](IMG_7907.jpeg){width="2000"}
 
-![](IMG_8147.jpeg){width="2000"} 
+![](IMG_8147.jpeg){width="2000"}
 
 ![](IMG_9205.jpeg){width="2000"}
 
@@ -53,9 +55,19 @@ I am an amateur photographer, here are a few of my favorite recent shots.
 
 ![](IMG_8757.jpeg){width="2000"}
 
-![](PXL_145824761.jpg){width="2000"}
-
-![](IMG_9071.jpeg){width="2000"}
-
 ![](IMG_9296.jpeg){width="2000"}
+
+![](IMG_9300.jpeg){width="2000"}
+
+![](IMG_9287.jpeg){width="2000"}
+
+![](IMG_8887.jpeg){width="2000"}
+
+![](IMG_8919.jpeg){width="2000"}
+
+![](IMG_9367.jpeg){width="2000"}
+
+![](IMG_9373.jpeg){width="2000"}
+
+![](IMG_9390.jpeg){width="2000"}
 :::
