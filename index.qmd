@@ -3,14 +3,14 @@ title: "Rowland Pettit MD, PhD, MBA"
 about:
   template: jolla
   id: about-block
-  image: "assets/12.jpg"
+  image: "assets/Rowland Pettit_23-11-16_1550 (1).jpeg"
   links:
     - icon: twitter
       text: Twitter
       href: https://twitter.com/RowlandPettit
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/rowland-pettit-9531b8124/
+      href: https://www.linkedin.com/in/rowland-pettit-md-phd-9531b8124/
     - icon: github
       text: Github
       href: https://github.com/rowlandpettit
