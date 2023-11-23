@@ -5,6 +5,8 @@ title: "Publications"
 ```{r, hide=TRUE,echo=FALSE}
 #install.packages("scholar")
 library(scholar)
+suppressPackageStartupMessages(library(dplyr))
+library(stringr)
 
 # Define the id for Rowland Pettit
 id <- 'GgF8zHcAAAAJ'
@@ -30,9 +32,27 @@ library(knitr)
 publication_df <- data.frame(Publications = publications)
 
 
-publication_df$Publications <- sort(publication_df$Publications)
+# publication_df$Publications <- sort(publication_df$Publications)
+
+
+# Create a logical column indicating if you are the first author
+publication_df <- publication_df %>% 
+  mutate(FirstAuthor = str_starts(Publications, "\\*\\*Pettit, R\\.\\*\\*"))
+
+# Extract the year and convert it to numeric
+publication_df <- publication_df %>%
+  mutate(Year = as.numeric(str_extract(Publications, "\\b(20\\d{2})\\b")))
+
+# Perform the nested sort
+publication_df <- publication_df %>%
+  arrange(desc(FirstAuthor), desc(Year))
+
+# View the sorted dataframe
+# print(publication_df)
+publication_df_f <-  publication_df %>% select(Publications)
+
 # Use kable to format the table in R Markdown style
-kable(publication_df, format = "markdown", row.names = TRUE)
+kable(publication_df_f, format = "markdown", row.names = TRUE)
 
 
 # ?format_publications
