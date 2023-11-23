@@ -19,16 +19,23 @@ l <- get_profile(id)
 # APA style:
 #format_publications("GgF8zHcAAAAJ", "R Pettit") |> cat(sep='\n\n')
 
+
+
 # Numbering format:
 publications <- format_publications("GgF8zHcAAAAJ", "R Pettit")# |> print(quote=FALSE)
 library(knitr)
 
+
 # Create a data frame from the publications
 publication_df <- data.frame(Publications = publications)
 
+
+publication_df$Publications <- sort(publication_df$Publications)
 # Use kable to format the table in R Markdown style
 kable(publication_df, format = "markdown", row.names = TRUE)
 
+
+# ?format_publications
 ```
 
 ```{r, hide=TRUE,echo=FALSE}
