@@ -3,8 +3,6 @@ title: "Writing"
 ---
 
 ```{html}
-<a class="twitter-timeline" data-width="500" data-height="800" data-theme="light" href="https://twitter.com/RowlandPettit?ref_src=twsrc%5Etfw">Tweets by RowlandPettit</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-  
 
 <div id="substack-feed-embed"></div>
 
@@ -17,6 +15,10 @@ title: "Writing"
 <script src="https://substackapi.com/embeds/feed.js" async></script>
 
   
-<iframe src="https://rowlandpettit.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no">
+<iframe src="https://rowlandpettit.substack.com/embed" width="800" height="320" style="border:1px solid #EEE; background:white;" frameborder="1" scrolling="no">
 </iframe>
+  
+
+<a class="twitter-timeline" data-width="800" data-height="800" data-theme="light" href="https://twitter.com/RowlandPettit?ref_src=twsrc%5Etfw">Tweets by RowlandPettit</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  
 

@@ -23,6 +23,7 @@ editor:
 ---
 
 ::: {#about-block}
+Physician-scientist focused on biotech and healthcare
 :::
 
 **Education:**
